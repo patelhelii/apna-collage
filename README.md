@@ -1,2 +1,4 @@
-# apna-collage
-this is my first repository
+# HELI PATEL
+THIS IS MY FIRST REPOSITORY.
+AUTHOR:HELI
+
